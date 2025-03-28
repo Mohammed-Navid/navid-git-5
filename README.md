@@ -2,13 +2,6 @@
 
 Welcome to this sample repository! This repo serves as an example to demonstrate how a typical GitHub repository is structured. It includes basic elements to get you started on your own projects.
 
-## Table of Contents
-1. [About](#about)
-2. [Tools Used](#tools-used)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## About
 This repository is a simple template to showcase a GitHub repository structure. It includes essential files and documentation to help users understand the basic structure of a project. Feel free to modify and use this template for your own projects.
