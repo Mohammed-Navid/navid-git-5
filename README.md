@@ -5,19 +5,20 @@ Welcome to this sample repository! Below are the tools and technologies used in 
 ## Tools and Technologies Used
 
 - **Linux**  
-  ![Linux](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png)
+  ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 - **Shell Scripting**  
-  ![Shell Scripting](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Shell_logo.svg/1280px-Shell_logo.svg.png)
+  ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 - **Maven**  
-  ![Maven](https://upload.wikimedia.org/wikipedia/commons/2/25/Apache_Maven_logo.svg)
+  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 - **Git & GitHub**  
-  ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/800px-Git-logo.svg.png) ![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 - **Jenkins**  
-  ![Jenkins](https://upload.wikimedia.org/wikipedia/commons/9/92/Jenkins_logo.png)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## Setup Instructions
 
@@ -30,6 +31,3 @@ For more detailed usage and setup, refer to the individual tool's documentation.
 ---
 
 Feel free to contribute or report issues by opening a GitHub issue.
-
-
-
